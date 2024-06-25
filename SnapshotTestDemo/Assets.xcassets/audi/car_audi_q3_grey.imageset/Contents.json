@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "car_audi_q3_grey.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

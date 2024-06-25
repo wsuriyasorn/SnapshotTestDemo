@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "car_bmw_3er_blue.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

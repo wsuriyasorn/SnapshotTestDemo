@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "car_bmw_4er_black.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

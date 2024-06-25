@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "icon_mileage.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

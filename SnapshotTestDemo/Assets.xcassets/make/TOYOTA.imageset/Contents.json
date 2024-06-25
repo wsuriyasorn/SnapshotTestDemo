@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "TOYOTA.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "car_audi_a7_black.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
